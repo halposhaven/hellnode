@@ -6,7 +6,5 @@ steps:
   env:
   - 'CLOUDSDK_COMPUTE_ZONE=us-central1-a'
   - 'CLOUDSDK_CONTAINER_CLUSTER=starchtest-hellnode'
-images:
-- 'gcr.io/$PROJECT_ID/hello-node:$COMMIT_SHA'
     
 
