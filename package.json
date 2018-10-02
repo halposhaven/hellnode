@@ -24,8 +24,7 @@
     "moment": "2.22.2",
     "moment-timezone": "0.5.21",
     "nodemailer-sendgrid-transport": "git+https://github.com/Starchup/nodemailer-sendgrid-transport.git",
-    "starchup-vars": "0.3",
-    "chai": "4.2.0"
+    "starchup-vars": "0.3"
   },
   "scripts": {
     "pretest": "jshint server",
